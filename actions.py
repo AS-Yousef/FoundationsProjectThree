@@ -75,7 +75,6 @@ def join_clubs():
 	    		club.recruit_member(myself)
 	    		club_found = True
     
-
 def application():
     introduction()
     # your code goes here!
